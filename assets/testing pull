@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testing GIT</title>
+</head>
+<body>
+    <div>
+        <H1>
+            Hellow Word, i studing GIT
+        </H1>
+    </div>
+    <div>
+        
+    </div>
+
+    <footer>
+        @BomanCODE
+    </footer>
+    
+</body>
+</html>
