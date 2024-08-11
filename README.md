@@ -24,6 +24,7 @@ observe
 - git log
 
 sync
+- git remote origin "nama repositori"
 - git push
 - git pull
 - git fecth
